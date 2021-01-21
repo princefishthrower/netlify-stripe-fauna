@@ -1,22 +1,22 @@
 {
   "private": true,
-  "name": "@lwj/demo-layout",
+  "name": "netlify-stripe-fauna",
   "version": "1.0.0",
-  "description": "Shared components to create nicely styled demos for Learn With Jason.",
+  "description": "Combines netlify serverless functions, stripe subscriptions, and a fauna DB.",
   "scripts": {
     "dev": "eleventy --serve",
     "build": "eleventy"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jlengstorf/lwj-demo-layout.git"
+    "url": "git+https://github.com/princefishthrower/netlify-stripe-fauna.git"
   },
-  "author": "Jason Lengstorf <jason@lengstorf.com>",
+  "author": "Chris Frewin <frewin.christopher@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/jlengstorf/lwj-demo-layout/issues"
+    "url": "https://github.com/princefishthrower/netlify-stripe-fauna/issues"
   },
-  "homepage": "https://github.com/jlengstorf/lwj-demo-layout#readme",
+  "homepage": "https://github.com/princefishthrower/netlify-stripe-fauna#readme",
   "devDependencies": {
     "@11ty/eleventy": "^0.11.0"
   },
